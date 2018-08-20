@@ -1,0 +1,61 @@
+head, body, .wrapper {
+  margin: 0px !important;
+  padding-left: 5%;
+  padding-right: 5%;
+  max-width: 100% !important;
+  background-color: #FFFFFF;
+  color: #000000 !important;
+  font-family: "Raleway" !important;
+}
+
+.parallax {
+  /* image */
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/7a/COSMOPOLITAN_magazine_at_The_Brandery_Summer_Edition_2010.jpg");
+  /* image height */
+  height: 500px;
+  /* parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px) grayscale(100%);
+  margin-bottom: 50px;
+}
+
+#image {
+  left: 10%;
+  top: 25%;
+  height: 55%;
+  width: 60%;
+  filter: blur(5px) grayscale(100%);
+}
+
+#text {
+  z-index: 5;
+  position: absolute;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  left: 12%;
+  top: 25%;
+}
+
+.photo {
+  border-radius: 100%;
+  margin-top: 30px;
+}
+
+.center {
+  display: block;
+  margin: auto;
+  filter: grayscale(100%);
+}
+
+.newcenter {
+  display: block;
+  margin: auto;
+}
