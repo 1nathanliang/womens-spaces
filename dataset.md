@@ -5,7 +5,7 @@ permalink: /Dataset/
 ---
 Access to the full dataset from this research is available from these links:
 <br>
-<a href="https://github.com/1nathanliang/1nathanliang.github.io">Nathan's GitHub Repository</a>
+<a href="https://github.com/1nathanliang/womens-spaces">Nathan's GitHub Repository</a>
 <br>
 <a href="https://github.com/sandraluksic/spaces">Sandra's GitHub Repository</a>
 <br>
